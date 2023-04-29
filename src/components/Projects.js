@@ -14,12 +14,12 @@ export const Projects = () => {
   const projects = [
     {
       title: "Gericht fine dining",
-      description: "Design & Development",
+      description: "Modern restaurant landing page ",
       imgUrl: projImg1,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Hoobank ",
+      description: "Bank landing page",
       imgUrl: projImg2,
     },
     {
@@ -28,13 +28,13 @@ export const Projects = () => {
       imgUrl: projImg3,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Sumz AI Open Source project",
+      description: "Summarize articles with AI",
       imgUrl: projImg4,
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "GPT-3 OpenAI",
+      description: "GTP-3 landing page",
       imgUrl: projImg5,
     },
     {

@@ -1,6 +1,8 @@
 This is my personal portfolio website : 
 
-![My portfolio](https://user-images.githubusercontent.com/108659552/236277251-941b4d0e-14dc-409e-b035-1f421532aed3.png)
+
+![My portfolio](https://user-images.githubusercontent.com/108659552/236277939-7d6e5bd8-852e-4fdc-a932-03acfd33f4f3.png)
+
 
 Built using:
 
